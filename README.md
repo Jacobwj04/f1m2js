@@ -10,3 +10,5 @@
 (opdracht les4)[http://32894.hosts1.ma-cloud.nl/f1m2js/les4-seizoenen/]
 
 (opdracht les 5)[http://32894.hosts1.ma-cloud.nl/f1m2js/les5-silverbullet/]
+
+(les-6)[http://32894.hosts1.ma-cloud.nl/f1m2js/les-6/]
